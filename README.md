@@ -23,7 +23,7 @@ I'm excited to contribute to open-source projects and collaborate with other dev
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?bsr144&show_icons=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bsr144&show_icons=true&count_private=true&theme=radical)
 
 ## Get in Touch
 
